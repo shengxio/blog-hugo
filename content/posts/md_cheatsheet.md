@@ -4,7 +4,7 @@ date: 2023-04-13T21:37:10-06:00
 slug: ""
 description: "Here is my first post on this blog. Its purpose is to serve as a reminder of the text format used in this site and how I use them."
 tags: []
-draft: true
+draft: false
 toc: false
 ---
 # This is the post title
